@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dissenter unmask'd being some reflections upon the behavior of the dissenters towards the Church of England in the last reign to this present time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36148</idno>
+            <idno type="STC">Wing D1682</idno>
+            <idno type="STC">ESTC R30981</idno>
+            <idno type="EEBO-CITATION">11752975</idno>
+            <idno type="OCLC">ocm 11752975</idno>
+            <idno type="VID">48618</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48618)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1483:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dissenter unmask'd being some reflections upon the behavior of the dissenters towards the Church of England in the last reign to this present time.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages creased and stained.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  17th century.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48618:1"/>
+            <pb facs="tcp:48618:1"/>
+            <p>THE <hi>Diſſenter Vnmask'd:</hi> BEING SOME REFLECTIONS UPON THE BEHAVIOUR OF THE DISSENTERS TOWARDS THE <hi>Church of England,</hi> IN THE Laſt Reign to this Preſent Time.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48618:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:48618:2"/>
+            <head>The <hi>Diſſenter Unmask'd;</hi> being ſome Re<g ref="char:EOLhyphen"/>flections upon the Behaviour of our Diſſenters towards the Church of <hi>England,</hi> &amp;c.</head>
+            <p>I HAD forborn Publiſhing ſuch a Paper as this, at a time when People ought to expect ſomething that might rather leſſen, and not make our unhappy Breaches wider, had not the conſideration of the ſcandalous Carriage which our <hi>Diſſenters</hi> has lately ſhew'd towards the <hi>Church of England,</hi> rouz'd my Pen; and, by giving me a ſufficient inſight into the meaning of theſe Perſons, let me ſee, that they are ſo far from deſiring a <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> (whatſoever pretences they may feign,) that I really believe they dread nothing more, except a compulſion of <hi>Tender Conſciences,</hi> and an apprehenſion of never getting the <hi>Reins</hi> into their own hands: But to proceed to my <hi>Title,</hi> let us look back upon their Behaviour in the late King's Reign.</p>
+            <p>One of the firſt Acts, we all know, which King <hi>James</hi> put out, was that which gave toleration to the <hi>Diſſenters</hi> in matters of <hi>Religion,</hi> and which took off thoſe Fines that the former Law had laid upon them for their <hi>Riotous</hi> and <hi>Seditious Meetings.</hi> This was ſo great a Favour to that <hi>diſcontented Party</hi> that they were at a loſs how to demonſtrate their <hi>Joy</hi> and <hi>Gratitude:</hi> Bonfires are ordered to be made in every Street, and the <hi>Elders</hi> largely contribute for ſo <hi>Pious a Thanksgiving. Sunday</hi> is very ſlow in coming, or elſe their Impatience for the opportunity of Bleſſing <hi>God</hi> for their their reſto<g ref="char:EOLhyphen"/>red Liberty, makes 'em think it ſo. At laſt it came, and <hi>Hugh Peters</hi>'s Succeſſor at <hi>Covent-Garden,</hi> thanks <hi>God</hi> that he had liv'd to ſee that <hi>glorious Day,</hi> (and perhaps would have repeated the <hi>Nunc Dimittis,</hi> had not the <hi>Papiſhes</hi> us'd it in the <hi>Common-Prayer</hi>) <hi>a Day of Joy and Thanksgiving, a Day of Jubilee, and a Day of Hu<g ref="char:EOLhyphen"/>miliation
+<pb n="4" facs="tcp:48618:3"/>for their deliverance out of Captivity, a Day which brought them out of the Land of</hi> Aegypt, <hi>out of the Houſe of Bondage; a Day when Soul-ſaving, Heart-comforting Grace might be again graciouſly Taught and Delivered to the before-trampled-under-foot Saints of the living God:</hi> Nor were his Brethren leſs fervent in their long-winded <hi>Thanksgivings</hi> for their ſafe Deliverance from the <hi>Long-Nails of the Whore of Babylon.</hi>
+            </p>
+            <p>Since then they are arriv'd to that happineſs which their Preach<g ref="char:EOLhyphen"/>ers call'd the greateſt upon Earth, let us take a view of their Beha<g ref="char:EOLhyphen"/>viour in it. Will they be ſo Elevated with this <hi>Freedom,</hi> and ſo ungrateful to their <hi>Benefactor,</hi> not to return due acknowledgments to him, to a Man who had given them the greateſt happineſs they could be poſſeſs'd of? No, this wou'd argue an <hi>unchriſtian Temper;</hi> and therefore thoſe who were never <hi>True</hi> to any King, reſolve now to turn <hi>Loyal</hi> and <hi>Faithful Subjects.</hi> And now, from all Counties in <hi>England</hi> flock <hi>Addreſſes,</hi> ſo long and faſt, that we cou'd ſcarce enjoy the benefit of any Forreign News, unleſs the <hi>Printer</hi> had us'd Short-hand Characters; ſo little difference was there between their <hi>Prayers</hi> in the <hi>Pulpit,</hi> and their <hi>Addreſſes</hi> in the <hi>Gazette.</hi>
+            </p>
+            <p>The <hi>Church of England</hi> was very much ſurpriz'd at this act, and began, by judiciouſly ſifting the whole Matter, to perceive the <hi>Mask</hi> which covered the <hi>Deſigns</hi> of that King: And though ſeve<g ref="char:EOLhyphen"/>ral hinted their Sentiments of it to ſome of the <hi>Diſſenters,</hi> yet they ſlighted it, and like <hi>grateful</hi> People, reply'd, they would ſtand and fall with him, for that the Lord had now gave them a King who lov'd and favour'd the <hi>Godly.</hi> And when one ſaid, That the end of this <hi>Toleration</hi> was but to introduce <hi>Popery</hi> (being ſpoke in a <hi>Coffee-Houſe,</hi> my ſelf being by) a <hi>Diſſenter</hi> reply'd, <hi>That it was equal to him if the</hi> Romiſh-Hydra <hi>came in, ſo the</hi> Engliſh-Dragon <hi>were put down.</hi> How! Is this the Voice of a <hi>Presbyterian?</hi> The Voice of a Reformer of the Ancient, True, and <hi>moſt</hi> pure Religion? a Miracle, and ſeems as fabulous as <hi>Hugh Peters</hi>'s Stories.</p>
+            <p>They told ſome of the Members of the <hi>Church of England, That the Lord now had taken the Sword out of the hands of</hi> Saul, <hi>and put
+<pb n="5" facs="tcp:48618:3"/>it into the hands of</hi> David. They behav'd themſelves at laſt with that inſupportable Pride and Saucineſs, that in the Out-Countries they fear'd not to tell the Clergy, they would pay them no Tythes. And in <hi>Leiceſter-ſhire</hi> a Miniſter going to a <hi>Diſſenter</hi>'s Houſe to number his Pigs, in order for the receiving his <hi>Tyth</hi> as in ſuch caſes, the Farmer ſeeing him, pointing him out to the Servants, <hi>See there,</hi> ſaid he, <hi>there goes an authoriz'd Thief to Steal one of my Pigs:</hi> And, by his Inſtigation, his Men, from behind Carts and Dunghils pri<g ref="char:EOLhyphen"/>vately ſent ſuch a ſhower of Clods, that the Miniſter was glad to fly out of the Yard to avoid a worſe conſequence.</p>
+            <p>After this the Jeſuits broach their Principles, and the moſt Learn<g ref="char:EOLhyphen"/>ed of them Challenge the <hi>Proteſtant</hi> Divines to a <hi>Pen</hi>-Battle. Who muſt be theſe <hi>Proteſtants?</hi> 'Tis a contradiction for the <hi>Church of England</hi> to Write againſt the <hi>Papiſts,</hi> becauſe you know they were always Branded with the Title of <hi>Papiſts.</hi> Well, there remains nothing then to do, but for the <hi>Presbyterians</hi> to ſhow their Learn<g ref="char:EOLhyphen"/>ing and averſion for <hi>Popery,</hi> which they always ſo much exclaim'd againſt. What! not a hand move? Not one <hi>Diſſenter</hi> boldly vindicate the <hi>Proteſtant</hi> Cauſe? What! muſt <hi>Papiſts</hi> Write againſt <hi>Papiſts?</hi> Muſt the <hi>Babyloniſh Church of England,</hi> engage againſt the <hi>Babyloniſh Church of Rome?</hi> Sure, a Houſe divided againſt it ſelf falleth: Yes, the <hi>Church of England</hi> muſt ſtand and bear the ſhock, or elſe the <hi>Proteſtant</hi> Cauſe muſt go hang: And yet theſe Men will have <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> to be <hi>Papiſhes.</hi>
+            </p>
+            <p>At laſt King <hi>James</hi>'s Deſigns began to be viſible, the Univerſi<g ref="char:EOLhyphen"/>ties (the ſource from whence the chiefeſt Pillars of our <hi>Religion</hi> flow) are the firſt that muſt ſuffer, that the Head being taken a<g ref="char:EOLhyphen"/>way, the Members may be leſs capable to Reſiſt. Well, how do our <hi>Diſſenters</hi> behave themſelves now? If they will not lend a helping hand to ſave a ſinking <hi>Reform'd Church,</hi> a <hi>Church</hi> that juſt before had bore up with ſo much Bravery againſt the Enemy of <hi>all Proteſtants,</hi> ſure they'll pity it: No, they ſaid openly, That the Angels had pour'd out their Viols of Wrath upon the <hi>Dragon</hi> and his <hi>Followers;</hi> That the <hi>Adulterers, Whoremongers,</hi> and <hi>Tythe<g ref="char:EOLhyphen"/>gatherers,</hi>
+               <pb n="6" facs="tcp:48618:4"/>were to be puniſh'd for afflicting the <hi>beloved</hi> of <hi>God.</hi>
+            </p>
+            <p>At length the <hi>Seven Biſhops</hi> are ſent to the <hi>Tower,</hi> for not com<g ref="char:EOLhyphen"/>plying with a thing which they could not reconcile to their Con<g ref="char:EOLhyphen"/>ſciences: Sure the <hi>Diſſenters</hi> will take their Parts in <hi>This,</hi> becauſe they themſelves are ſuch great Sticklers in point of <hi>Conſcience:</hi> No, they have a Clue to diſintangle themſelves from this Laby<g ref="char:EOLhyphen"/>rinth: They ſaid this proceeded not from any part of a <hi>Religious Conſcience,</hi> but that they refus'd to read the <hi>Declaration,</hi> in order to the taking off the <hi>Penal Laws</hi> and <hi>Teſts,</hi> meerly becauſe it would deprive them of the Power of Perſecuting the Lambs of <hi>God.</hi>
+            </p>
+            <p>But now the Prince of <hi>Orange</hi> Lands, and we ſhall ſee whe<g ref="char:EOLhyphen"/>ther there is any Truſt to be confided in ſuch ſort of Cattle. There is a great conſternation over all <hi>England.</hi> King <hi>James</hi> had been very. Tyrannical over the <hi>Church of England,</hi> and therefore doubted of their Loyalty to him; but he had been kind, nay a <hi>Father</hi> to the <hi>Diſſenters,</hi> and therefore ought to expect aſſiſtance from them, as they had Religiouſly proteſted in their <hi>Addreſſes.</hi> What! not a Man among our <hi>grateful Diſſenters,</hi> neither Perſonally, nor from the Preſs nor-Pulpit, take the part of a King who had delivered them out of <hi>Captivity, who brought them out of the Land of</hi> Aegypt, <hi>out of the Houſe of Bondage.</hi> What! will thoſe <hi>Godly</hi> People for<g ref="char:EOLhyphen"/>ſake their Benefactor now he moſt needs the effects of their Pro<g ref="char:EOLhyphen"/>miſes? Will none of them lend their aſſiſtance to a Man who had freed them from the <hi>Long-Nails of the Whore of Babylon?</hi> What! the <hi>Lambs</hi> of <hi>God!</hi> the very Emblem of our Saviour, abſolutely Pure and Innocent, and yet promiſe what they hardly ever meant, or at leaſt never did perform! To reflect upon it would make the moſt Brazen Bluſh; but our <hi>Diſſenters</hi> Foreheads are hardned a degree above Steel it ſelf, or elſe they could not reflect upon thoſe large Promiſes, and the Non-performance of them without a Guilt which would be as evident in their Countenances, and as laſting as <hi>Cain</hi>'s Mark. I remember once I ſaw a <hi>Diſſenter</hi> turn<g ref="char:EOLhyphen"/>ing over the <hi>Gazetts,</hi> in the laſt Reign, and <hi>(Monſtrum horrendum!)</hi> his Face kept it's accuſtom'd Colour, without the leaſt ſign of a
+<pb n="7" facs="tcp:48618:4"/>Confuſion, which in any but a <hi>Phanatick</hi> would have beſpoke a matter as ſtrange as that of <hi>Pryn, Baſtwick,</hi> and <hi>Burton, who fell together by the <hi>Ears</hi> when they had <hi>No</hi> Ears.</hi>
+            </p>
+            <p>Nor is their Carriage towards the <hi>Church of England</hi> leſs noto<g ref="char:EOLhyphen"/>rious in This Reign than in the Laſt. They are ſo daringly Im<g ref="char:EOLhyphen"/>pudent, as to ſay, they don't queſtion, but the <hi>Lawn Sleeves and the long Gown will make them as good a Bonfire in</hi> Smithfield, <hi>as did the Goods of the</hi> Spaniſh <hi>Embaſſador in the</hi> Strand. It was but the other day, that a Worthy and Learned Man heard ſome of this Crew, in a Coffee-Houſe near the <hi>Temple,</hi> ſay, <hi>They queſtion'd not but the Fast for King</hi> Charles's <hi>Martyrdom would be put down.</hi> Good <hi>God!</hi> To what Impudence are theſe Perjur'd <hi>Time-ſervers</hi> arriv'd? I wonder they did not Petition in the laſt Reign (to gratifie King <hi>James</hi>) that the <hi>Thanksgiving</hi> for the <hi>Fifth of November</hi> might be rac'd out of the Kalendar. They told a good Member of the <hi>Church of England,</hi> That they hop'd the Lord would put the Sword into <hi>Their</hi> hands, and then the <hi>meaſure</hi> which <hi>We meaſur'd</hi> to <hi>Them,</hi> might be <hi>meaſur'd</hi> to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> again. How! is this the nature of the Lamb? Is it <hi>Revenge</hi> and <hi>Pride</hi> that entitles us to that ſa<g ref="char:EOLhyphen"/>cret Epithet of <hi>Holy Lambs</hi> and <hi>Followers</hi> of the Living <hi>GOD?</hi> Sure theſe Men are little better than Atheiſts, when they ſeem to caſt ſo little regard to the Almighty, as to appropriate to them<g ref="char:EOLhyphen"/>ſelves the very ſame Name and Title which is given to the <hi>Supream Being;</hi> and yet at that very time, deſign never to perform the thing they promiſe, and are hatching <hi>Revenge</hi> and <hi>Malice</hi> againſt their <hi>Enemies.</hi> The <hi>Church of England</hi> is now look'd upon by theſe Men as the meer droſs of the <hi>Primitive Religion,</hi> and ought to be caſt away; that the Members of it are defil'd with the Sins of the <hi>Dragon,</hi> and that the <hi>Bottomleſs Pit</hi> will receive them at the end. What is this but depriving <hi>God</hi> of his <hi>Mercy,</hi> and taking away one of the greateſt <hi>Attributes</hi> of the <hi>Deity,</hi> by condemning their <hi>Fellow Chriſtians</hi> to the <hi>Bottomleſs Pit?</hi> But to inſiſt no more upon their barbarous and unchriſtian <hi>Expreſſions,</hi> let us take a ſurvey of their <hi>Behaviour</hi> only. I am not going to Vindicate the Biſhop of
+<pb n="8" facs="tcp:48618:5"/>
+               <hi>Ely;</hi> but is it not a horrid Shame that that Learned Man ſhould be expos'd by every <hi>ſaucy Pamphleteer?</hi> and <hi>that</hi> with all the <hi>ſcurri<g ref="char:EOLhyphen"/>lous</hi> and <hi>opprobrious Titles</hi> that Hell can invent and they publiſh: And not only <hi>Him,</hi> but, for his ſake, the whole <hi>Church</hi> muſt be vil<g ref="char:EOLhyphen"/>lify'd by this Rabble of <hi>Writers,</hi> whoſe <hi>Style</hi> is as nauſceous as their <hi>Senſe,</hi> and both as inconſiſtent as the <hi>Covent-Garden Sermons.</hi> Is it not a wretched Shame that a Fellow who Styles himſelf the <hi>O—r</hi> ſhould have the Impudence to call upon the Reverend Biſhops to clear themſelves? as though it was not below the Dignity and E<g ref="char:EOLhyphen"/>minency of thoſe Learned <hi>Prelates,</hi> to be at the beck of a <hi>ſaucy Scrib<g ref="char:EOLhyphen"/>ler</hi> that Writes for Bread, and who, I believe, values Religion juſt as much as his <hi>Brethren,</hi> when it will conſiſt with his Intereſt to con<g ref="char:EOLhyphen"/>tinue it. I know they think they have already their Foot in the Stirrup, and that they ſhall ſpeedily mount the Saddle; but I have reaſon to bel<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> His preſent Majeſty's Prudence is too great to re<g ref="char:EOLhyphen"/>poſe any <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in ſuch <hi>unfaithful Perjur'd People,</hi> who never were <hi>True</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir own Intereſt<g ref="char:punc">▪</g> I know they carry a very fair outſide to King <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but if we ſcan their <hi>Principles</hi> we ſhall have reaſon to think they love him no more than the great <hi>Turk. For if they love a King, as King, then they love Monarchy, but they hate Monarchy, therefore cannot love a King.</hi>
+            </p>
+            <p>I ſhall conclude this Paper with this Expreſſion, That if His Majeſty (whom <hi>God</hi> long preſerve in the Throne of <hi>England</hi>) ſhould rely upon theſe People, upon the account of any Love they pretend to Him, He will be found to have truſted to a <hi>broken Reed,</hi> if ever He ſhould have occaſion to try <hi>Them:</hi> And that though too many of our <hi>Church of England</hi> have been <hi>Wheedled</hi> away from valuing this <hi>preſent Government</hi> with as great a Veneration as is really due to it, yet I don't queſtion but there are above an hundred for one, who will be <hi>True</hi> to <hi>It;</hi> if ſo, there will not be much need of depending upon a People whoſe very Hearts ſeem to be com<g ref="char:EOLhyphen"/>pounded with thoſe <hi>Two Ingredients</hi> of <hi>Malice</hi> and <hi>Falſehood:</hi> From whoſe Principles <hi>Libera nos,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48618:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
